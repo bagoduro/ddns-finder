@@ -1,6 +1,6 @@
 # DDNS Finder - Intelbras
 
-Ferramenta em Python para enumerar subdomínios válidos no domínio `ddns-intelbras.com.br`.
+Ferramenta em Python para enumerar subdomínios válidos no domínio `ddns-intel****.com.br`.
 
 ## Funcionalidades
 
