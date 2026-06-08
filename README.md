@@ -14,3 +14,5 @@ Ferramenta em Python para enumerar subdomínios válidos no domínio `ddns-intel
 2. Execute o script:
    ```bash
    python verifica.py
+   
+3. grep -oE '\b([0-9]{1,3}\.){3}[0-9]{1,3}\b' ips_encontrados.txt > ips37777.txt
