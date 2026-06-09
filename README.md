@@ -1,4 +1,4 @@
-# DDNS Finder - Intelbras
+# DDNS Finder - Intel****
 
 Ferramenta em Python para enumerar subdomínios válidos no domínio `ddns-intel****.com.br`.
 
