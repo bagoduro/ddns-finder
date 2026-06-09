@@ -15,4 +15,4 @@ Ferramenta em Python para enumerar subdomínios válidos no domínio `ddns-intel
    ```bash
    python verifica.py
    
-3. grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' ips_encontrados.txt > ips37777.txt
+grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' ips_encontrados.txt > ips37777.txt
